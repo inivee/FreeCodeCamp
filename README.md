@@ -1,2 +1,2 @@
 # FreeCodeCamp
-Projects done in FreeCodeCamp
+Web Design projects done in FreeCodeCamp
